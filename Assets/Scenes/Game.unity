@@ -1130,9 +1130,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameManager: {fileID: 785193309}
-  steeringSpeed: 2
+  steeringSpeed: 90
   accBrakeSpeed: 1
   moveSpeed: 10
+  offcetToCamera: 3
   gameover: 0
 --- !u!50 &1586852677
 Rigidbody2D:
